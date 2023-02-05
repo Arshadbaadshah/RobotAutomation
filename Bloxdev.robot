@@ -13,7 +13,7 @@ Bloxdeveloper
     Sleep    4
     Input Text    id:mobile    9113090487
     Sleep    4
-    Input Text    id:email    arshad.pkl@terralogic.com
+    Input Text    id:email    Baadshah.pkl@terralogic.com
     Sleep    4
     Click Button    xpath://button[contains(text(),'Continue')]
 
